@@ -1,4 +1,4 @@
-# Elevator Simulation (Back-End Code Challenge)
+# Elevator Simulation 
 
 **Author:** Pranav Tallapaka  
 **Language:** Java  
