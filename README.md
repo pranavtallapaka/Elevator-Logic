@@ -1,7 +1,6 @@
 # Elevator Simulation 
 
 **Author:** Pranav Tallapaka  
-**Language:** Java  
 
 ---
 
